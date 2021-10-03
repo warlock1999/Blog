@@ -1,6 +1,2 @@
 funtechjunk.xyz
-$ dig EXAMPLE.COM +noall +answer -t A
-> EXAMPLE.COM     600    IN A     185.199.108.153
-> EXAMPLE.COM     600    IN A     185.199.109.153
-> EXAMPLE.COM     600    IN A     185.199.110.153
-> EXAMPLE.COM     600    IN A     185.199.111.153
+
